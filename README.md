@@ -11,6 +11,7 @@ The Okta Sign-In Widget is a Javascript widget that provides a fully featured an
 
 You can learn more on the [Okta + JavaScript][lang-landing] page in our documentation.
 
+
 **Table of Contents**
 
 <!-- TOC depthFrom:2 depthTo:3 -->
